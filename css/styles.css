@@ -30,9 +30,9 @@ li,a{
     text-align: start;
     font-weight: bolder;
 }
-.important{
+em{
     font-weight: bold;
-    color: red;
+    color: peru;
 }
 img{
     width: 50%;
