@@ -25,23 +25,23 @@ h3{
     color: purple;
 }
 
-li{
+li,a{
     color: blue;
     text-align: start;
     font-weight: bolder;
 }
-.important,em,strong{
+.important{
     font-weight: bold;
-    color: royalblue;
+    color: red;
 }
 img{
-    width: 100%;
+    width: 50%;
     height: 50%;
     float: left;
 }
 .main{
-    
-    width: 100%;
+    float: right;
+    width: 48%;
     float: right;
 }
 .text-box{
