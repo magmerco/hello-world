@@ -14,7 +14,7 @@ This webpage is to introduce myself in the world of technology with some informa
 ## Technologies Used
 HTML and CSS
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+Your support are the most welcome,you can contact me via GitHub @ magmerco. Thank you
 ### License
 [MIT] (https://choosealicense.com/licenses/mit/)
 Copyright (c) 2018 **Zaninka Magali**
