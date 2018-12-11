@@ -12,8 +12,9 @@ This webpage is to introduce myself in the world of technology with some informa
 ## Technologies Used
 HTML and CSS
 ## Support and contact details
-Your support are the most welcome,you can contact me via GitHub @ magmerco. Thank you
-My link to the repository:https://github.com/magmerco/hello-world.git
+Your support are the most welcome,you can contact me via GitHub @ magmerco.
+## Link to live site on GitHub pages
+https://magmerco.github.io/hello-world/independant-project.html
 ### License
 [MIT] (https://choosealicense.com/licenses/mit/)
 Copyright (c) 2018 **Zaninka Magali**
